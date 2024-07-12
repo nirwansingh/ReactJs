@@ -1,5 +1,3 @@
-Sure, here’s a sample description for your React repository that includes multiple different projects:
-
 ---
 
 # React Projects Repository
