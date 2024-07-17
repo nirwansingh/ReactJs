@@ -18,6 +18,10 @@ An interactive weather application that fetches and displays real-time weather d
 ### 4. **Course Cards**
 A dynamic website that has mutiple sub categories for the types of courses availiable and can be sorted according to the buttons. The application feteches every data from an API call to get course details.
 
+### 4. **Form App**
+A form app powered with reactJS with features of collection data filled by the user.
+
+
 ## Getting Started
 
 To get started with any of the projects, follow these steps:
