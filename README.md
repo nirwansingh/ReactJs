@@ -42,7 +42,7 @@ To get started with any of the projects, follow these steps:
    npm install
    ```
 
-4. **Start the Development Server:**
+5. **Start the Development Server:**
    ```sh
    npm start
    ```
